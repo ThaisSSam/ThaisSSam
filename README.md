@@ -1,8 +1,8 @@
-## 👋 Oie, sou Thais Sampaio!
+# 👋 Oie, sou Thais Sampaio!
 
 💻 Sou estudante de Sistemas para Internet no IFSP, campus Birigui, e estou estagiando no setor de TI fazendo treinamento para desenvolvimento de sistemas na ITB-Equipamentos Elétricos.
 
-📫 Entre em contato
+## 📫 Entre em contato
 <p align="left">
   <a href="https://www.instagram.com/taht.ss/" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/taht.ss/" alt="Instagram"/>
